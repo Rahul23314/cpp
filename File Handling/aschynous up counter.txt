@@ -1,0 +1,3 @@
+In this circuit we need 3 jk flip flop means 2 7476IC.
+Give the CLK1 to clock, PR1,PR2,CLR1,CLR2,VCC to VCC;
+J1,K1,J2,K2 as input, Give Q1 , Q1 ha ekda Ouput la dyava ani toch Q1(UP counter madhe Q1Bar cha use hot nahi), CLK2(second flipflop of first 7476Ic) la join karava, similary Q2 ha ekda output manun ani ekda CLK1 of thirdflip(second 7476).
